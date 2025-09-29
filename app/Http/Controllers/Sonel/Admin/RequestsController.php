@@ -1,0 +1,11 @@
+<?php
+
+namespace App\Http\Controllers\Sonel\Admin;
+
+use App\Http\Controllers\Controller;
+use Illuminate\Http\Request;
+
+class RequestsController extends Controller
+{
+    //
+}
